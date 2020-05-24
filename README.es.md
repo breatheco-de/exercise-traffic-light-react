@@ -26,7 +26,7 @@ Empieza un nuevo projecto de react.
 
 # 📝 Instrucciones
 
-Simulemos un semáforo [como este](https://projects.breatheco.de/json?slug=traffic-light-react&preview).
+Simulemos un semáforo [como este](https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif).
 
 La luz tiene que brillar cuando se hace clic.
 

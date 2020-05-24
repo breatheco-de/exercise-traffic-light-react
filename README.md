@@ -24,7 +24,7 @@ Start a new react project.
 
 ## 📝 Instructions
 
-Let's simulate a traffic light [like this one](https://projects.breatheco.de/json?slug=traffic-light-react&preview).
+Let's simulate a traffic light [like this one](https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif).
 
 The light has to glow when clicked.
 
