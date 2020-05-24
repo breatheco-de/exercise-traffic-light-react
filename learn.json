@@ -6,7 +6,7 @@
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
 	"technologies": ["reactjs"],
-	"syntax": "reactjs",
+	"syntax": "jsx",
 	"solution": "https://bitbucket.org/codingacademy/traffic-light-react",
 	"duration" : 4,
 	"description" : "Create a small react component with its own state and event listeners",
