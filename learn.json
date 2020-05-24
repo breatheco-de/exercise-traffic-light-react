@@ -7,10 +7,9 @@
 	"difficulty": "beginner",
 	"technologies": ["reactjs"],
 	"syntax": "reactjs",
-	"solution": "https://bitbucket.org/codingacademy/traffic-light-react",
+	"preview": "https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif?raw=true",
+	"solution": "https://github.com/breatheco-de/exercise-traffic-light-react/tree/solution-with-class",
 	"duration" : 4,
 	"description" : "Create a small react component with its own state and event listeners",
-	"talents": [
-		{ "badge": "functional-developer", "points": 6 }
-	]
+	"talents": []
 }

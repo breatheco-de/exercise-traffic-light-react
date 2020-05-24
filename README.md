@@ -1,10 +1,28 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Traffic Light with React
+# Traffic Light with React
 
-Sometimes we want to create components with an internal state that changes overtime, for example to create a traffic light that changes color every 3 seconds we need to store a `currentColor` variable that maintains the state of the traffic light (green, yellow or red).
+Sometimes we want to create components with an internal state that changes overtime, imagine a traffic light that changes color every 3 seconds, for that we normally will make a variable color and set it to a default color:
 
-The component state is just normal variables that can be changed during the component lifecycle or during the application runtime, every time those variables change the component will re-render again.
+```js
+let color = "blue";
+```
 
-# Instructions
+But we want our component to re-render and change the website HTML every time the variable color changes, that's why we use hooks:
+
+```js
+//        ↓ variable name             ↓ default value
+const [ color, setColor] = useState("red");
+//               ⬆ function to change the color
+```
+
+From now one, every time we use the function `setColor` to change the variable color, the component will re-render and the entire traffic light HTML will be updated with the new color. 
+
+> You can [read more about hooks here](https://content.breatheco.de/lesson/react-hooks-explained).
+
+## 💻 Installation
+
+Start a new react project.
+
+## 📝 Instructions
 
 Let's simulate a traffic light [like this one](https://projects.breatheco.de/json?slug=traffic-light-react&preview).
 
@@ -18,7 +36,7 @@ The light has to glow when clicked.
 const [ color, setColor] = useState("red");
 ```
 
-- Use the setColor function to change the color an the component will automatically re-render (because it's hooked with useState).
+- Use the setColor function to change the color an the component will automatically re-render (because it's hooked with `useState`).
 
 - Use the ReactDOM.render to render the component into the DOM like this
 ```js
