@@ -28,7 +28,7 @@ Let's simulate a traffic light [like this one](https://github.com/breatheco-de/e
 
 The light has to glow when clicked.
 
-- The whole purpose of the component is displaying a traffic light with read, yellow and green lights.
+- The whole purpose of the component is displaying a traffic light with red, yellow and green lights.
 - When any light is clicked (selected) it has to glow, but the other lights have to stop glowing.
 - The component must have a hooked state variable that tracks the color:
 
