@@ -1,0 +1,46 @@
+.trafficTop{
+    background-color: black;
+    width: 30px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+.trafficLight{
+    margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border-radius: 25px;
+    width: 100px;
+    height: 250px;
+}
+
+.light{
+     cursor: pointer;
+     position:absolute;
+     margin-left: 20px;
+     margin-right: 20px;
+     width: 60px;
+     height: 60px;
+     border-radius: 50%;
+    
+}
+.red{
+    margin-top:20px;
+    background-color: red;
+
+}
+.yellow{
+    margin-top: 90px;
+    background-color: yellow;
+}
+.green{
+    margin-top: 160px;
+    background-color: green;
+}
+
+.selected{
+    box-shadow: white 0px 0px 50px 20px;
+}
