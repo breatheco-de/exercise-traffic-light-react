@@ -1,7 +1,7 @@
 # Traffic Light with React
 
 A veces queremos crear componentes que mantengan un estado interno en el tiempo, imaginemos un semáforo que cambia de color cada 3 segundos,
-para implementar eso tendriamos una variable `color` que puede tener como valor cualquier color entre [amarillo, rojo, verde]
+para implementar eso tendríamos una variable `color` que puede tener como valor cualquier color entre [amarillo, rojo, verde]
 
 ```js
 let color = "blue";
@@ -20,9 +20,15 @@ actualizara para reflejar el cambio.
 
 > Puedes [leer mas sobre hooks aqui](https://content.breatheco.de/lesson/react-hooks-explained).
 
-## 💻 Instalacion
+## 🌱  Cómo iniciar este proyecto
 
-Empieza un nuevo projecto de react.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 # 📝 Instrucciones
 
