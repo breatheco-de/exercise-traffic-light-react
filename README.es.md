@@ -15,7 +15,7 @@ para eso utilizamos el hook de react llamado `useState`:
 const [ color, setColor] = useState("red");
 //               ⬆ function to change the color
 ```
-De ahora en adelante, cada vez que utilicemos la function setColor para cambiar el valor de la variabel color, el HTML del componente tambien se
+De ahora en adelante, cada vez que utilicemos la function setColor para cambiar el valor de la variable color, el HTML del componente tambien se
 actualizara para reflejar el cambio.
 
 > Puedes [leer mas sobre hooks aqui](https://content.breatheco.de/lesson/react-hooks-explained).
