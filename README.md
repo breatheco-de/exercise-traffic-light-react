@@ -44,7 +44,7 @@ The light has to glow when clicked.
 const [ color, setColor] = useState("red");
 ```
 
-- Use the setColor function to change the color an the component will automatically re-render (because it's hooked with `useState`).
+- Use the setColor function to change the color and the component will automatically re-render (because it's hooked with `useState`).
 
 - Use the ReactDOM.render to render the component into the DOM like this
 ```js
