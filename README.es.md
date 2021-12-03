@@ -7,7 +7,7 @@ para implementar eso tendríamos una variable `color` que puede tener como valor
 let color = "blue";
 ```
 
-Pero solo con tener esa variable no basta, necesitamos que cada vez que la variable color cambie tambien lo haga el codigo HTML del semaforo,
+Pero solo con tener esa variable no basta, necesitamos que cada vez que la variable color cambie también lo haga el código HTML del semaforo,
 para eso utilizamos el hook de react llamado `useState`:
 
 ```js
@@ -15,14 +15,14 @@ para eso utilizamos el hook de react llamado `useState`:
 const [ color, setColor] = useState("red");
 //               ⬆ function to change the color
 ```
-De ahora en adelante, cada vez que utilicemos la function setColor para cambiar el valor de la variable color, el HTML del componente tambien se
-actualizara para reflejar el cambio.
+De ahora en adelante, cada vez que utilicemos la function setColor para cambiar el valor de la variable color, el HTML del componente también se
+actualizará para reflejar el cambio.
 
-> Puedes [leer mas sobre hooks aqui](https://content.breatheco.de/lesson/react-hooks-explained).
+> Puedes [leer más sobre hooks aquí](https://content.breatheco.de/lesson/react-hooks-explained).
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
@@ -42,7 +42,7 @@ La luz tiene que brillar cuando se hace clic.
 ```js
 const [ color, setColor] = useState("red");
 ```
-- Utilice ReactDOM.render para procesar el componente en el DOM de esta manera
+- Utiliza ReactDOM.render para procesar el componente en el DOM de esta manera
 ```js
 ReactDOM.render(<TrafficLight />, document.querySelector('#app'));
 ```
