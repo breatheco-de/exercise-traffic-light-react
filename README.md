@@ -50,3 +50,8 @@ const [ color, setColor] = useState("red");
 ```js
 ReactDOM.render(<TrafficLight />, document.querySelector('#app'));
 ```
+
+## 🔥 Bonus
+
++2 Create one button that when you click on it, it cycles the traffic light selected color between red, green and yellow.  
++10 Have a button that when clicked it ads an extra color "purple" to the traffic light.  
