@@ -11,5 +11,7 @@
 	"solution": "https://github.com/breatheco-de/exercise-traffic-light-react/tree/solution-with-class",
 	"duration" : 4,
 	"description" : "Create a small react component with its own state and event listeners",
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
