@@ -46,3 +46,8 @@ const [ color, setColor] = useState("red");
 ```js
 ReactDOM.render(<TrafficLight />, document.querySelector('#app'));
 ```
+## 🔥 Bonus
+
++ 2 Crea un botón que, al hacer clic en él, alterna el color seleccionado del semáforo entre rojo, verde y amarillo.
+
++ 10 Tener un botón que al hacer clic en él anuncie un color extra "púrpura" al semáforo.
