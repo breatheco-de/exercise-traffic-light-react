@@ -14,7 +14,7 @@ const [ color, setColor] = useState("red");
 //               ⬆ function to change the color
 ```
 
-From now one, every time we use the function `setColor` to change the variable color, the component will re-render and the entire traffic light HTML will be updated with the new color. 
+From now on, every time we use the function `setColor` to change the variable color, the component will re-render and the entire traffic light HTML will be updated with the new color. 
 
 > You can [read more about hooks here](https://content.breatheco.de/lesson/react-hooks-explained).
 
