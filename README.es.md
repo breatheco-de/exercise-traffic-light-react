@@ -1,6 +1,6 @@
-<!--hide-->
+<!-- hide -->
 # Traffic Light with React
-<!--endhide-->
+<!-- endhide -->
 
 A veces queremos crear componentes que mantengan un estado interno en el tiempo, imaginemos un semáforo que cambia de color cada 3 segundos, para implementar eso tendríamos una variable `color` que puede tener como valor cualquier color entre [amarillo, rojo, verde]
 
