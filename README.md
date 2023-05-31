@@ -1,6 +1,6 @@
-<!--hide-->
+<!-- hide -->
 # Traffic Light with React
-<!--endhide-->
+<!-- endhide -->
 
 Sometimes we want to create components with an internal state that changes over time, imagine a traffic light that changes color every 3 seconds, for that we normally will make a variable color and set it to a default color:
 
