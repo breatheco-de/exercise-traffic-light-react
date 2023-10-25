@@ -32,7 +32,7 @@ Este es el repositorio que necesitas abrir o clonar:
 https://github.com/4GeeksAcademy/react-hello
 ```
 
-**👉 Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
+**👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
 > 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
@@ -50,6 +50,7 @@ La luz tiene que brillar cuando se hace clic.
 const [ color, setColor ] = useState("red");
 ```
 
+- Utiliza la función `setColor` para cambiar el color, y el componente se volverá a renderizar automáticamente (porque está vinculado con `useState`).
 - Utiliza ReactDOM.render para renderizar el componente en el DOM de esta manera:
 
 ```js
