@@ -41,7 +41,7 @@ https://github.com/4GeeksAcademy/react-hello
 
 Let's simulate a traffic light [like this one](https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif).
 
-The light has to glow when clicked.
+The light has to glow when clicked/active. Learn how to [create a glow effect with CSS](https://codersblock.com/blog/creating-glow-effects-with-css/).
 
 - The whole purpose of the component is to display a traffic light with red, yellow and green lights.
 - When any light is clicked (selected), it has to glow, but the other lights have to stop glowing.
