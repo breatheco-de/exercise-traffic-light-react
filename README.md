@@ -60,7 +60,7 @@ ReactDOM.render(<TrafficLight />, document.querySelector('#app'));
 
 ## 🔥 Bonus
 
-+ 2 Create one button that when you click on it, cycles the traffic light selected color between red, green and yellow.  
++ 2 Create one button that when you click on it, cycles the traffic light selected color between red, green, and yellow.  
 + 10 Have a button that when clicked, it adds an extra color "purple" to the traffic light.  
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
