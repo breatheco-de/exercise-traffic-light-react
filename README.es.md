@@ -28,7 +28,7 @@ Recomendamos abrir el `react boilerplate` usando un entorno de desarrollo como [
 
 Este es el repositorio que necesitas abrir o clonar:
 
-```text
+```txt
 https://github.com/4GeeksAcademy/react-hello
 ```
 
