@@ -55,7 +55,8 @@ const [ color, setColor ] = useState("red");
 - Use the ReactDOM.render to render the component into the DOM, like this:
   
 ```js
-ReactDOM.render(<TrafficLight />, document.querySelector('#app'));
+const root = ReactDOM.createRoot(document.querySelector('#root'));
+root.render(<TrafficLight />);
 ```
 
 ## 🔥 Bonus
