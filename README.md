@@ -28,7 +28,7 @@ We recommend opening the `react boilerplate` using a provisioning tool like [Cod
 
 This is the repository you need to open or clone:
 
-```text
+```txt
 https://github.com/4GeeksAcademy/react-hello
 ```
 
