@@ -51,7 +51,7 @@ const [ color, setColor ] = useState("red");
 ```
 
 - Utiliza la función `setColor` para cambiar el color, y el componente se volverá a renderizar automáticamente (porque está vinculado con `useState`).
-- Utiliza ReactDOM.render para renderizar el componente en el DOM de esta manera:
+- Utiliza ReactDOM.createRoot para renderizar el componente en el DOM de esta manera:
 
 ```js
 const root = ReactDOM.createRoot(document.querySelector('#root'));
