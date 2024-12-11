@@ -20,6 +20,8 @@ De ahora en adelante, cada vez que utilicemos la función `setColor` para cambia
 
 > Puedes [leer más sobre hooks aquí](https://4geeks.com/es/lesson/react-hooks-explained-es).
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo comenzar este proyecto
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
@@ -35,6 +37,8 @@ https://github.com/4GeeksAcademy/react-hello
 **👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
 > 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
