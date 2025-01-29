@@ -1,5 +1,8 @@
 {
-	"title" : "Traffic Light",
+	"title" : {
+    "us": "Traffic Light",
+    "es": "Semáforo"
+},
 	"slug" : "traffic-light-react",
 	"status": "published",
 	"video-id": "RywVfCd_24o",
@@ -7,11 +10,18 @@
 	"difficulty": "beginner",
 	"technologies": ["reactjs"],
 	"syntax": "reactjs",
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"preview": "https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif?raw=true",
 	"solution": "https://github.com/breatheco-de/exercise-traffic-light-react/tree/solution",
 	"duration" : 4,
-	"description" : "Create a small react component with its own state and event listeners",
+	"description" : {
+    "us": "Build an interactive traffic light simulator using React.js and hooks! This project teaches you how to manage component state with useState, updating the UI dynamically when clicking on different lights.",
+    "es": "¡Construye un simulador de semáforo interactivo usando React.js y hooks! Este proyecto te enseña cómo gestionar el estado de los componentes con useState, actualizando la interfaz de usuario dinámicamente al hacer clic en diferentes luces. "
+},
 	"talents": [],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=193"
+}
 }
