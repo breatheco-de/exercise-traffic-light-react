@@ -9,7 +9,7 @@
 	"video-id": "RywVfCd_24o",
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
-	"technologies": ["reactjs"],
+	"technologies": ["reactjs", "javascript"],
 	"syntax": "reactjs",
 	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"preview": "https://github.com/breatheco-de/exercise-traffic-light-react/blob/master/preview.gif?raw=true",
